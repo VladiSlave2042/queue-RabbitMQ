@@ -8,7 +8,8 @@
 !(скрин)[https://github.com/VladiSlave2042/queue-RabbitMQ/blob/main/img/2.1.png]
 !(скрин)[https://github.com/VladiSlave2042/queue-RabbitMQ/blob/main/img/2.2.png]
 ---
-## 
+## Задание 3
+
 ---
 ## 
 ---
